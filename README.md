@@ -1,1 +1,2 @@
-# Space-shooter-Mobile
+# SpaceShooter
+Shoot'em Up !!!
